@@ -1,0 +1,68 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Файл пуст. Пожалуйста, загрузите что-то более существенное. Эта ошибка также может означать, что в php.ini запрещены загрузки, либо значение post_max_size меньше, чем upload_max_filesize.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost
+Data file = /var/www/html/wp-content/uploads/2018/05/philos-content-1.xml
+Widget file = /var/www/html/wp-content/uploads/2018/05/philos-widgets-1.wie
+Customizer file = /var/www/html/wp-content/uploads/2018/05/philos-options-1.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Shop Sidebar : 
+
+Меню навигации - Shop Categories - Imported
+Фильтрация товаров по цене - Filter by price - Imported
+Активные фильтры товаров - Active filters - Imported
+Фильтрация товаров по атрибутам - Filter by color - Imported
+Фильтрация товаров по атрибутам - Filter by size - Imported
+Облако меток товаров - Product tags - Imported
+Товары по рейтингу - Top rated products - Imported
+Изображение - No Title - Imported
+
+Main Sidebar : 
+
+Поиск - No Title - Imported
+Рубрики - No Title - Imported
+Свежие записи - No Title - Imported
+Свежие комментарии - No Title - Imported
+Облако меток - POPULAR TAG - Imported
+
+Footer Top Column Area 1 : 
+
+Текст - No Title - Imported
+NF - Follow Us Widget - No Title - Widget already exists
+
+Footer Top Column Area 2 : 
+
+Меню навигации - Information - Imported
+
+Footer Top Column Area 3 : 
+
+Меню навигации - Our Links - Imported
+
+Footer Top Column Area 4 : 
+
+Меню навигации - Extra Links - Imported
+
+Footer Top Column Area 5 : 
+
+NF - Contact Us Widget - Contact - Imported
+
+Footer Bottom Column Area : 
+
+MailPoet Subscription Form - Subscribe Newsletter - Widget already exists
+
+Max Mega Menu Widgets : 
+
+Изображение - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
